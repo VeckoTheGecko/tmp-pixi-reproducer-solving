@@ -1,0 +1,1 @@
+pixi run -e test-minimum pixi list | grep hvplot | grep 0.8
