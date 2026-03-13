@@ -5,4 +5,4 @@ platforms = ["win-64", "linux-64", "osx-64", "osx-arm64"]
 [dependencies]
 python = "3.11.*"
 uxarray = "2025.3.*"
-# hvplot = ">=0.9.0"
+hvplot = ">=0.9.0"
